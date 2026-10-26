@@ -1,5 +1,5 @@
 public class f2{
    public static void main(String[] args){
-    System.out.println("Welcome to git class");
+    System.out.println("Welcome to git classes");
    } 
 }
